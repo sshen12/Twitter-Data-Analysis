@@ -1,12 +1,5 @@
 """
 sumarize.py
-
-Number of users collected:
-Number of messages collected:
-Number of communities discovered:
-Average number of users per community:
-Number of instances per class found:
-One example from each class:
 """
 import pickle
 import os
