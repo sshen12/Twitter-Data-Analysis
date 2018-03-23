@@ -1,0 +1,28 @@
+Number of users collected: 973
+Number of messages collected: 1500
+
+Number of communities discovered: 2
+Average number of users per community:387.0
+
+Number of instances per class found: 
+	Aganist Trump Tweets: 517
+	Neutral Trump Tweets: 280
+	Support Trump Tweets: 703
+
+Number of instances per class found:  
+	
+Instance of Aganist Trump Tweets: RT @realDonaldTrump: Thank you Ohio! Together, we made history – and now, the real work begins. America will start winning again! #AmericaF…
+	
+Instance of Neutral Trump Tweets: @mike_pence @realDonaldTrump https://t.co/mPxBwIkkgr
+	
+Instance of Support Trump Tweets: @Msnbc @AC360 @cnn Please acknowledge the silence &amp;somber faces of @realDonaldTrump supports when he talks about anti Bigotry&amp;prejudice...
+
+
+There are 17.354196301564723% femal Support Trump and 19.91465149359886% male
+In Support Trump tweets, one female name is :Deplorable American!	 male name :trumpnation2016
+	
+There are 23.214285714285715% femal neutral Trump and 23.92857142857143% male
+In Neutral Trump tweets, one female name is :Margaret Morneau	 male name :Christopher
+	
+There are  22.823984526112184% femal againist Trump and21.8568665377176% male
+In Againist Trump tweets, one female name is :Jeanne Combs Pence	 male name :Brent Gill
