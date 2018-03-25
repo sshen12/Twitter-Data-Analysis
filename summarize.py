@@ -13,7 +13,6 @@ clusterFile =  'cluster.pkl'
 
 def loadData(filename):
     """ Load twittes which collected in collect period
-
     Returns:
     return twittes
     """
