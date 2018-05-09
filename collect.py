@@ -1,7 +1,6 @@
 """
 collect.py
 """
-
 import datetime
 import pickle
 from TwitterAPI import TwitterAPI
